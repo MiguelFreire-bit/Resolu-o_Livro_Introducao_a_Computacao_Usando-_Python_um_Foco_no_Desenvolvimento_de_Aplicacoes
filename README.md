@@ -1,1 +1,1 @@
-# Resolu-o_Livro_Introducao_a_Computacao_Usando-_Python_um_Foco_no_Desenvolvimento_de_Aplicacoes
+# Resolucao-o_Livro_Introducao_a_Computacao_Usando-_Python_um_Foco_no_Desenvolvimento_de_Aplicacoes
